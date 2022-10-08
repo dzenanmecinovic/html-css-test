@@ -106,7 +106,7 @@ footer {
     display: flex;
     width: 101.1%;
     height: 14.3vh;
-    background-color: gray;
+    background-color: rgb(211, 211, 211);
     position: relative;
     right: 8px;
     top: 8px;
@@ -125,14 +125,14 @@ footer a {
 }
 
 .ikonice {
-    padding-top: 40px;
+    padding-top: 28px;
     padding-left: 60%;
 }
 
 #footericon {
     padding: 10px;
-    border:solid #585a61;
-    background-color: #585a61;
+    border:solid #959595;
+    background-color: #959595;
     border-radius: 50px;
     text-align: center;
 }
